@@ -22,6 +22,32 @@ header{
 	text-align: center;
 }
 
+nav {
+	background-color: #0a7e8c;
+	text-align: center;
+	padding: 10px 30px 30px 30px;
+	margin: 0 auto;
+	margin-bottom: 60px;
+	border-radius: 50px;
+  	box-shadow: 3px 3px 10px #000000;
+	line-height: 2;
+	width: 20em;
+	white-space: pre-line;
+}
+
+nav a, nav a:link, nav a:visited, nav a:hover, nav a:active {
+	text-decoration: none;
+	color: #FFFFFF;
+	letter-spacing: 2px;
+	font-weight: 600;
+	font-size: calc(13px + 0.390625vw);
+	text-shadow: 3px 3px 5px #3b3b3b;
+}
+
+main {
+	text-align: center;
+}
+
 hr {
 	border: 1px solid #000000;
 	margin-top: 50px;
@@ -67,13 +93,6 @@ h2, h3, h4 {
 	position: relative;
 	overflow: hidden;
 	width: 100%;
-}
-
-img {
-	text-align: center;
-	box-shadow: 3px 3px 10px #000000;
-	max-width: 100%;
-	height: auto;
 }
 
 p {
