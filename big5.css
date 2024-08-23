@@ -36,6 +36,11 @@ main {
 	text-align: center;
 }
 
+.grid {
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+}
+
 hr {
 	border: 1px solid #000000;
 	margin-top: 50px;
@@ -373,6 +378,12 @@ nav a, nav a:link, nav a:visited, nav a:hover, nav a:active {
 	100% {
 		width: 31%;
 	}
+}
+
+@media (max-width: 768px) {
+  .grid {
+    grid-template-columns: 1fr; /* Collapse to a single column */
+  }
 }
 
 @media (min-width: 1000px) {
