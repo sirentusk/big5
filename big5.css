@@ -38,7 +38,7 @@ main {
 
 .grid {
 	display: grid;
-	grid-template-columns: repeat(3, 1fr) 2fr;
+	grid-template-columns: repeat(3, 1fr);
 	grid-gap: 10px;
 }
 
