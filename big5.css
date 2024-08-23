@@ -37,8 +37,8 @@ main {
 }
 
 .grid {
-  display: grid;
-  grid-template-columns: repeat(12, 1fr);
+	  display: grid;
+	  grid-template-columns: repeat(3, 1fr) repeat(2, 1fr);
 }
 
 hr {
