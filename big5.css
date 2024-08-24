@@ -393,9 +393,6 @@ nav a, nav a:link, nav a:visited, nav a:hover, nav a:active {
 	.bar1, .bar2 {
 		width: 80vw;
 	}
-	.bar1 span, .bar2 span {
-		width: 80vw;
-	}
 }
 
 @media (max-width: 768px) {
