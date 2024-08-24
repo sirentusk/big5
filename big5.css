@@ -385,20 +385,20 @@ nav a, nav a:link, nav a:visited, nav a:hover, nav a:active {
 	}
 }
 
-@media (max-width: 768px) {
+@media (max-width: 1440px) {
   .grid {
     grid-template-columns: 1fr; /* Collapse to a single column */
   }
 }
 
-@media (min-width: 1440px) {
+@media (min-width: 999px) {
 	iframe {
 		width: 50%;
 		aspect-ratio: 16/9;
 	}	
 }
 
-@media (max-width: 1440px) {
+@media (max-width: 999px) {
 	iframe {
 		width: 100%;
 		aspect-ratio: 16/9;
