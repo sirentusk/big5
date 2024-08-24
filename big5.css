@@ -391,14 +391,14 @@ nav a, nav a:link, nav a:visited, nav a:hover, nav a:active {
   }
 }
 
-@media (min-width: 1000px) {
+@media (min-width: 1440px) {
 	iframe {
 		width: 50%;
 		aspect-ratio: 16/9;
 	}	
 }
 
-@media (max-width: 999px) {
+@media (max-width: 1440px) {
 	iframe {
 		width: 100%;
 		aspect-ratio: 16/9;
