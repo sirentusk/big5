@@ -388,46 +388,4 @@ nav a, nav a:link, nav a:visited, nav a:hover, nav a:active {
 	}
 }
 
-@media (max-width: 1440px) {
-	.grid {
-    		grid-template-columns: 1fr;
-  	}
 
-}
-
-@media (max-width: 768px) {
-	.hidden {
-		display: none;
-}
-}
-
-@media (min-width: 999px) {
-	iframe {
-		width: 50%;
-		aspect-ratio: 16/9;
-	}	
-}
-
-@media (max-width: 999px) {
-	iframe {
-		width: 100%;
-		aspect-ratio: 16/9;
-	}	
-}
-
-@font-face {
-	font-family: 'Somebody Else';
-	src: url('fonts/Somebody_Else.otf');
-	font-style: normal;
-}
-
-@page {
-	size: A4;
-	margin: 0;
-}
-
-@media print {
-  html, body {
-	width: 210mm;
-	height: 297mm;
-}}
