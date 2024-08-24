@@ -141,7 +141,9 @@ nav a, nav a:link, nav a:visited, nav a:hover, nav a:active {
 	padding-bottom: 50px;
 	border-radius: 50px;
 	box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
-
+	display: grid;
+	justify-content: center;
+	align-content: center;
 }
 
 .aspect li {
