@@ -386,9 +386,12 @@ nav a, nav a:link, nav a:visited, nav a:hover, nav a:active {
 }
 
 @media (max-width: 1440px) {
-  .grid {
-    grid-template-columns: 1fr; /* Collapse to a single column */
-  }
+	.grid {
+    		grid-template-columns: 1fr;
+  	}
+	.bar1, .bar2 {
+		width: 80vw;
+	}
 }
 
 @media (min-width: 999px) {
