@@ -43,7 +43,6 @@ main {
 	grid-template-rows: 1fr 1fr;
 	justify-content: center;
 	align-content: center;
-
 }
 
 hr {
@@ -139,6 +138,7 @@ nav a, nav a:link, nav a:visited, nav a:hover, nav a:active {
 	margin: 60px auto;
 	color: #ffffff;
 	padding: 20px;
+	padding-bottom: 50px;
 	border-radius: 50px;
 	box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
 }
