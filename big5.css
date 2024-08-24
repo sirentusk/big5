@@ -45,6 +45,8 @@ main {
 	align-content: center;
 }
 
+
+
 hr {
 	border: 1px solid #000000;
 	margin-top: 50px;
@@ -395,6 +397,12 @@ nav a, nav a:link, nav a:visited, nav a:hover, nav a:active {
 	.bar1, .bar2 {
 		width: 80vw;
 	}
+}
+
+@media (max-width: 768px) {
+	.hidden {
+		display: none;
+}
 }
 
 @media (min-width: 999px) {
