@@ -389,6 +389,9 @@ nav a, nav a:link, nav a:visited, nav a:hover, nav a:active {
 @media (max-width: 1440px) {
 	.grid {
     		grid-template-columns: 1fr;
+		display: grid;
+		justify-content: center;
+		align-content: center;
   	}
 	.bar1, .bar2 {
 		max-width: 80vw;
