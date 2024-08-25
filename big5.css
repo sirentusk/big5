@@ -36,6 +36,17 @@ main {
 	text-align: center;
 }
 
+.textblock {
+	width: 500px;
+	margin: 60px auto;
+	color: #ffffff;
+	padding: 20px;
+	padding-bottom: 50px;
+	border-radius: 50px;
+	box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+	font-size: calc(13px + 0.390625vw);
+}
+
 .grid {
 	display: grid;
 	grid-template-columns: repeat(3, 1fr);
@@ -97,7 +108,7 @@ p {
 	margin: 0px 0px 40px 0px;
 }
 
-nav a, nav a:link, nav a:visited, nav a:hover, nav a:active {
+a, a:link, a:visited, a:hover, a:active {
 	text-decoration: none;
 	color: #FFFFFF;
 	letter-spacing: 2px;
@@ -141,6 +152,7 @@ nav a, nav a:link, nav a:visited, nav a:hover, nav a:active {
 	padding-bottom: 50px;
 	border-radius: 50px;
 	box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+	font-size: calc(13px + 0.390625vw);
 }
 
 .aspect li {
