@@ -18,7 +18,7 @@ header img {
 	padding: 30px 30px 30px 30px;
 }
 
-header{
+header {
 	margin: 50px 50px 50px 50px;
 	text-align: center;
 }
@@ -83,7 +83,7 @@ h1, h2 {
 	text-align: center;
 	font-weight: bold;
 	font-size: calc(45px + 0.390625vw);
-	margin: 130px 50px 50px 50px;
+	margin: 130px 50px 130px 50px;
 }
 
 h5 {
