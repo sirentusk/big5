@@ -5,12 +5,6 @@
 	box-sizing: border-box;
 }
 
-@font-face {
-	font-family: 'Somebody Else';
-	src: url('fonts/Somebody_Else.otf');
-	font-style: normal;
-}
-
 body {
 	font-family: Arial, fantasy;
 	background: #1d2724;
@@ -38,8 +32,10 @@ a, a:link, a:visited, a:hover, a:active {
 	text-shadow: 3px 3px 5px #3b3b3b;
 }
 
-main {
-	text-align: center;
+@font-face {
+	font-family: 'Somebody Else';
+	src: url('fonts/Somebody_Else.otf');
+	font-style: normal;
 }
 
 .textblock {
