@@ -77,14 +77,24 @@ footer {
 	padding: 30px 30px 30px 30px;
 }
 
-h1, h2 {
+h1 {
 	font-family: 'Somebody Else', Arial, fantasy;
 	color: #FFFFFF;
 	text-align: center;
 	font-weight: bold;
 	font-size: calc(45px + 0.390625vw);
+	margin: 130px 50px 50px 50px;
+}
+
+h2 {
+	font-family: 'Somebody Else', Arial, fantasy;
+	color: #FFFFFF;
+	text-align: center;
+	font-weight: bold;
+	font-size: calc(155px + 0.390625vw);
 	margin: 130px 50px 130px 50px;
 }
+
 
 h5 {
 	margin: 5px;
