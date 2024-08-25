@@ -107,10 +107,16 @@ h3 {
 	padding: 50px 0px 50px 0px;
 	font-size: calc(13px + 0.390625vw);
 }
-}
 
 h5 {
 	margin: 5px;
+}
+
+.italic {
+	font-style: italic;
+	text-align: center;
+	padding: 0px 0px 50px 0px;
+	font-size: calc(13px + 0.390625vw);
 }
 
 main {
@@ -153,18 +159,6 @@ a, a:link, a:visited, a:hover, a:active {
 	padding: 8px 13px 10px 14px;
 	right: 20px;
 	bottom: 25px;
-}
-
-#bold {
-	font-weight: bold;
-	padding: 50px 0px 50px 0px;
-	font-size: calc(13px + 0.390625vw);
-}
-
-#italic {
-	font-style: italic;
-	padding: 0px 0px 50px 0px;
-	font-size: calc(13px + 0.390625vw);
 }
 
 .aspect {
