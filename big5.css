@@ -5,6 +5,12 @@
 	box-sizing: border-box;
 }
 
+@font-face {
+	font-family: 'Somebody Else';
+	src: url('fonts/Somebody_Else.otf');
+	font-style: normal;
+}
+
 body {
 	font-family: Arial, fantasy;
 	background: #1d2724;
@@ -425,12 +431,6 @@ a, a:link, a:visited, a:hover, a:active {
 		width: 100%;
 		aspect-ratio: 16/9;
 	}	
-}
-
-@font-face {
-	font-family: 'Somebody Else';
-	src: url('fonts/Somebody_Else.otf');
-	font-style: normal;
 }
 
 @page {
