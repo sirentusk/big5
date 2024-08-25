@@ -431,7 +431,7 @@ a, a:link, a:visited, a:hover, a:active {
 @media (max-width: 768px) {
 	.hidden {
 		display: none;
-}
+	}
 }
 
 @media (min-width: 999px) {
