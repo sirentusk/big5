@@ -79,7 +79,7 @@ footer {
 
 h1, h2, h3, h4 {
 	font-family: 'Somebody Else', Arial, fantasy;
-	font-size: calc(40px + 0.390625vw);
+	font-size: calc(45px + 0.390625vw);
 	color: #FFFFFF;
 	text-align: center;
 	font-weight: bold;
