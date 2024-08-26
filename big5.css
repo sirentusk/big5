@@ -431,19 +431,6 @@ a, a:link, a:visited, a:hover, a:active {
 	}
 }
 
-@media (min-width: 999px) {
-	iframe {
-		width: 50%;
-		aspect-ratio: 16/9;
-	}	
-}
-
-@media (max-width: 999px) {
-	iframe {
-		width: 100%;
-		aspect-ratio: 16/9;
-	}	
-}
 
 @page {
 	size: A4;
