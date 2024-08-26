@@ -47,7 +47,10 @@ a, a:link, a:visited, a:hover, a:active {
 	box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
 	width: 70%;
 	overflow: hidden;
-	background-color: radial-gradient(circle, rgba(29,39,36,1) 0%, rgba(70,95,87,1) 50%, rgba(101,135,125,1) 100%);
+	background: rgb(29,39,36);
+	background: -moz-radial-gradient(circle, rgba(29,39,36,1) 0%, rgba(70,95,87,1) 50%, rgba(101,135,125,1) 100%);
+	background: -webkit-radial-gradient(circle, rgba(29,39,36,1) 0%, rgba(70,95,87,1) 50%, rgba(101,135,125,1) 100%);
+	background: radial-gradient(circle, rgba(29,39,36,1) 0%, rgba(70,95,87,1) 50%, rgba(101,135,125,1) 100%);
 }
 
 .grid {
