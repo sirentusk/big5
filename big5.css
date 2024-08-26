@@ -91,7 +91,7 @@ h2 {
 	color: #FFFFFF;
 	text-align: center;
 	font-weight: bold;
-	font-size: 150px;
+	font-size: calc(45px + 0.390625vw);
 }
 
 h3 {
