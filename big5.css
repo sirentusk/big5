@@ -6,7 +6,6 @@
 }
 
 body {
-	font-family: Arial, fantasy;
 	background: #1d2724;
 	scroll-behavior: smooth;
 }
@@ -39,6 +38,7 @@ a, a:link, a:visited, a:hover, a:active {
 }
 
 .textblock {
+	font-family: Arial, fantasy;
 	margin: 180px auto;
 	color: #ffffff;
 	padding: 5%;
