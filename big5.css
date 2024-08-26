@@ -141,12 +141,11 @@ a, a:link, a:visited, a:hover, a:active {
 .top {
 	position: fixed;
 	bottom: 20px;
-	padding: 10px 10px 10px 12px;
-	background: #43b3ae;
+	padding: 10px 10px 10px 10px;
+	background: #65877d;
 	border-radius: 100px;
 	font-size: calc(12px + 0.390625vw);
 	box-shadow: 3px 3px 10px #000000;
-	padding: 8px 13px 10px 14px;
 	right: 20px;
 	bottom: 25px;
 }
