@@ -58,7 +58,7 @@ a, a:link, a:visited, a:hover, a:active {
 	align-content: center;
 }
 
-img {
+main img {
 	margin: 50px 0px 50px 0px;
 	aspect-ratio: 16/9;
 }
