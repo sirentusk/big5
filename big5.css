@@ -8,6 +8,7 @@
 body {
 	background: #1d2724;
 	scroll-behavior: smooth;
+	font-size: calc(12px + 0.390625vw);
 }
 
 header img {
@@ -44,7 +45,6 @@ a, a:link, a:visited, a:hover, a:active {
 	padding: 5%;
 	border-radius: 50px;
 	box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
-	font-size: calc(12px + 0.390625vw);
 	width: 70%;
 	overflow: hidden;
 }
@@ -148,7 +148,7 @@ a, a:link, a:visited, a:hover, a:active {
 }
 
 iframe {
-	width: 65%;
+	width: 55%;
 	aspect-ratio: 16/9;
 	padding-top: 30px;
 }
