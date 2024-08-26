@@ -153,6 +153,12 @@ iframe {
 	padding-top: 30px;
 }
 
+hr {
+	border: 1px solid #000000;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
 .aspect {
 	width: 500px;
 	margin: 60px auto;
