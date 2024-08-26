@@ -58,6 +58,10 @@ a, a:link, a:visited, a:hover, a:active {
 	align-content: center;
 }
 
+img {
+	margin: 50px 0px 50px 0px;
+}
+
 footer {
 	font-family: 'Somebody Else', fantasy;
 	letter-spacing: 5px;
@@ -112,7 +116,7 @@ main {
 }
 
 .hidden {
-	margin: 80px 0px 0px 0px;
+	margin: 80px 0px 80px 0px;
 }
 
 .video {
