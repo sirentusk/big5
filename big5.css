@@ -154,7 +154,7 @@ iframe {
 }
 
 hr {
-	border: 1px solid #000000;
+	border: 1px solid linear-gradient(135deg, rgba(3, 40, 45, 1)0%, rgba(10, 126, 140, 1)100%);
 	margin-top: 50px;
 	margin-bottom: 50px;
 }
