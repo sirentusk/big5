@@ -148,7 +148,7 @@ a, a:link, a:visited, a:hover, a:active {
 }
 
 iframe {
-	width: 100%;
+	width: 75%;
 	aspect-ratio: 16/9;
 	padding-top: 30px;
 }
@@ -437,7 +437,7 @@ iframe {
 		display: none;
 	}
 	iframe {
-		width: 50%;
+		width: 80%;
 		aspect-ratio: 16/9;
 	}	
 }
