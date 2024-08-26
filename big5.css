@@ -423,6 +423,9 @@ a, a:link, a:visited, a:hover, a:active {
 		margin: 0 auto;
 		margin: 180px auto;
 	}
+	img {
+		width: 90%;
+	}
 }
 
 @media (max-width: 768px) {
