@@ -146,6 +146,11 @@ a, a:link, a:visited, a:hover, a:active {
 	bottom: 25px;
 }
 
+iframe {
+	width: 100%;
+	aspect-ratio: 16/9;
+}
+
 .aspect {
 	width: 500px;
 	margin: 60px auto;
@@ -430,6 +435,18 @@ a, a:link, a:visited, a:hover, a:active {
 		display: none;
 	}
 }
+
+@media (min-width: 999px) {
+	iframe {
+		width: 50%;
+		aspect-ratio: 16/9;
+	}	
+}
+
+@media (max-width: 999px) {
+	
+}
+
 
 
 @page {
