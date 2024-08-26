@@ -122,6 +122,7 @@ main {
 	position: relative;
 	overflow: hidden;
 	width: 80%;
+	text-align: center;
 }
 
 p {
