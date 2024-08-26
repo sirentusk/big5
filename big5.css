@@ -48,9 +48,9 @@ a, a:link, a:visited, a:hover, a:active {
 	width: 70%;
 	overflow: hidden;
 	background: rgb(101,135,125);
-	background: -moz-radial-gradient(circle, rgba(101,135,125,1) 0%, rgba(70,95,87,1) 30%, rgba(29,39,36,1) 70%);
-	background: -webkit-radial-gradient(circle, rgba(101,135,125,1) 0%, rgba(70,95,87,1) 30%, rgba(29,39,36,1) 70%);
-	background: radial-gradient(circle, rgba(101,135,125,1) 0%, rgba(70,95,87,1) 30%, rgba(29,39,36,1) 70%);
+	background: -moz-radial-gradient(circle, rgba(101,135,125,1) 0%, rgba(70,95,87,1) 40%, rgba(29,39,36,1) 75%);
+	background: -webkit-radial-gradient(circle, rgba(101,135,125,1) 0%, rgba(70,95,87,1) 40%, rgba(29,39,36,1) 75%);
+	background: radial-gradient(circle, rgba(101,135,125,1) 0%, rgba(70,95,87,1) 40%, rgba(29,39,36,1) 75%);
 }
 
 .grid {
