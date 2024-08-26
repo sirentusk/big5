@@ -60,6 +60,7 @@ a, a:link, a:visited, a:hover, a:active {
 
 img {
 	margin: 50px 0px 50px 0px;
+	aspect-ratio: 16/9;
 }
 
 footer {
@@ -117,14 +118,6 @@ main {
 
 .hidden {
 	margin: 80px 0px 80px 0px;
-}
-
-.video {
-	margin: 20px 0px 20px 0px;
-	width: 80%;
-	display: grid;
-	justify-content: center;
-	align-content: center;
 }
 
 p {
@@ -426,6 +419,7 @@ a, a:link, a:visited, a:hover, a:active {
 	}
 	img {
 		width: 90%;
+		aspect-ratio: 16/9;
 	}
 }
 
