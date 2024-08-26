@@ -44,7 +44,7 @@ a, a:link, a:visited, a:hover, a:active {
 	padding: 5%;
 	border-radius: 50px;
 	box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
-	font-size: calc(13px + 0.390625vw);
+	font-size: calc(12px + 0.390625vw);
 	width: 70%;
 	overflow: hidden;
 }
@@ -90,13 +90,14 @@ h2 {
 	text-align: center;
 	font-weight: bold;
 	font-size: 150px;
+	font-size: calc(30px + 0.390625vw);
 }
 
 h3 {
 	text-align: center;
 	font-weight: bold;
 	padding: 50px 0px 50px 0px;
-	font-size: calc(13px + 0.390625vw);
+	font-size: calc(14px + 0.390625vw);
 }
 
 h5 {
@@ -161,7 +162,7 @@ a, a:link, a:visited, a:hover, a:active {
 	padding-bottom: 50px;
 	border-radius: 50px;
 	box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
-	font-size: calc(13px + 0.390625vw);
+	font-size: calc(12px + 0.390625vw);
 }
 
 .aspect li {
