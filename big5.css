@@ -8,7 +8,7 @@
 body {
 	background: #1d2724;
 	scroll-behavior: smooth;
-	font-size: calc(12px + 0.390625vw);
+	font-size: calc(13px + 0.390625vw);
 }
 
 header img {
@@ -28,7 +28,7 @@ a, a:link, a:visited, a:hover, a:active {
 	color: #FFFFFF;
 	letter-spacing: 2px;
 	font-weight: 600;
-	font-size: calc(12px + 0.390625vw);
+	font-size: calc(13px + 0.390625vw);
 	text-shadow: 3px 3px 5px #3b3b3b;
 }
 
@@ -102,7 +102,7 @@ h3 {
 	text-align: center;
 	font-weight: bold;
 	padding: 50px 0px 50px 0px;
-	font-size: calc(12px + 0.390625vw);
+	font-size: calc(13px + 0.390625vw);
 }
 
 h5 {
@@ -113,7 +113,7 @@ h5 {
 	font-style: italic;
 	text-align: center;
 	padding: 0px 0px 50px 0px;
-	font-size: calc(12px + 0.390625vw);
+	font-size: calc(13px + 0.390625vw);
 }
 
 main {
@@ -134,7 +134,7 @@ a, a:link, a:visited, a:hover, a:active {
 	color: #FFFFFF;
 	letter-spacing: 2px;
 	font-weight: 600;
-	font-size: calc(12px + 0.390625vw);
+	font-size: calc(13px + 0.390625vw);
 	text-shadow: 3px 3px 5px #3b3b3b;
 }
 
@@ -144,7 +144,7 @@ a, a:link, a:visited, a:hover, a:active {
 	padding: 10px 10px 10px 10px;
 	background: #65877d;
 	border-radius: 100px;
-	font-size: calc(12px + 0.390625vw);
+	font-size: calc(13px + 0.390625vw);
 	box-shadow: 3px 3px 10px #000000;
 	right: 20px;
 	bottom: 25px;
@@ -170,7 +170,7 @@ hr {
 	padding-bottom: 50px;
 	border-radius: 50px;
 	box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
-	font-size: calc(12px + 0.390625vw);
+	font-size: calc(13px + 0.390625vw);
 }
 
 .aspect li {
