@@ -39,10 +39,9 @@ a, a:link, a:visited, a:hover, a:active {
 }
 
 .textblock {
-	width: 500px;
 	margin: 180px auto;
 	color: #ffffff;
-	padding: 20px;
+	padding: 15%;
 	padding-bottom: 50px;
 	border-radius: 50px;
 	box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
@@ -59,12 +58,6 @@ a, a:link, a:visited, a:hover, a:active {
 	align-content: center;
 }
 
-hr {
-	border: 1px solid #000000;
-	margin-top: 50px;
-	margin-bottom: 50px;
-}
-
 footer {
 	font-family: 'Somebody Else', fantasy;
 	letter-spacing: 5px;
@@ -76,10 +69,6 @@ footer {
 	width: 75%;
 	margin: 30px auto auto auto;
 	padding: 30px 30px 30px 30px;
-}
-
-img {
-	margin: 0px 0px 50px 0px;
 }
 
 h1 {
@@ -428,6 +417,7 @@ a, a:link, a:visited, a:hover, a:active {
 	.textblock {
 		width: 90%;
 		margin: 0 auto;
+		padding: 6%;
 	}
 }
 
